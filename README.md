@@ -1,4 +1,4 @@
-This is a repository containing reviews written on recently published papers in Deep Learning. Name of the file indicates the name of the paper that has been reviewed. These reviews were written as part of course work of the course CSEE 569: Advanced Special Topics – Recent Advances in Deep Learning, offered as a graduate course at University of Missouri Kansas City by Professor Dr. [Yugyung Lee] (https://scholar.google.com/citations?user=BwE_CWcAAAAJ&hl=en).
+This is a repository containing reviews written on recently published papers in Deep Learning. Name of the file indicates the name of the paper that has been reviewed. These reviews were written as part of course work of the course CSEE 569: Advanced Special Topics – Recent Advances in Deep Learning, offered as a graduate course at University of Missouri Kansas City by Professor Dr. Yugyung Lee. 
 # Papers
 
 1. Localize, Assemble, and Predicate: Contextual Object Proposal Embedding for Visual Relation Detection (https://ojs.aaai.org//index.php/AAAI/article/view/6913)
